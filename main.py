@@ -104,7 +104,7 @@ def main():
     access_token = token_data['access_token']
     refresh_token = token_data['refresh_token']
 
-    print("🔍 Step 3: 正在获取 Xero 租户 ID ...")
+    print("🔍 Step 3: 正在获取 XERO 租户 ID ...")
     tenant_id = get_xero_tenant_id(access_token)
 
     customer_id = input("👤 Step 4: 请输入对应 customer_id（UUID）以保存凭证：\n> ").strip()
