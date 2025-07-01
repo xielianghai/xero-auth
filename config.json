@@ -1,0 +1,12 @@
+{
+  "client_id": "C602FFEA620D44A59CAA776165875B72",
+  "client_secret": "_6Fu6UPWYGvWQZyhUDQ0HWgNu1l703A2zO2x-k4STS4DHxpk",
+  "redirect_uri": "https://atomapp.cyou/rest/oauth2-credential/callback",
+  "mysql": {
+    "host": "atomapp.cyou",
+    "port": 10306,
+    "user": "n8n",
+    "password": "Ab888888",
+    "database": "smepaf"
+  }
+}
